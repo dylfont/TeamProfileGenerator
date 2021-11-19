@@ -42,14 +42,15 @@
 
 ## About The Project
 
-// add screenshot 
+
 
 ### Built With
 
+* Node.js 
 * JavaScript
-* Jest
 * Bootstrap
-* Inquirer
+* Inquirer.js
+* Jest 
 
 
 
@@ -79,9 +80,11 @@ This is an example of how to list things you need to use the software and how to
 
 ## Usage
 
-Used to generate your entire teams profile!
+Open the file on your local computer and type node index.js into the terminal. The user will then answer question prompts. An html file will be created in the dist folder of the main generator directory.
 
-// add gif/video 
+
+
+
 
 
 ## License

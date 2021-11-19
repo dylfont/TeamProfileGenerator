@@ -1,0 +1,28 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "<h3 align=\"center\">Team Profile Generator</h3>",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylfont/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylfont/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/dylfont/TeamProfileGenerator#readme"
+}
